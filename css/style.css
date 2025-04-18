@@ -2278,7 +2278,9 @@ partners
 }
 
 .mil-partner-frame {
-  display: block;
+  display:flex;
+  align-items: center;
+  justify-content: center;
 }
 .mil-partner-frame img {
   width: 100%;
